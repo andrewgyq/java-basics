@@ -1,5 +1,3 @@
-package com.yqgu.common;
-
 public class PassString {
 
 	public static void main(String[] args) {

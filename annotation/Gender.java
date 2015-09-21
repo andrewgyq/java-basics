@@ -1,5 +1,3 @@
-package com.yqgu.annotation;
-
 public enum Gender {
     MAN{
     	public String getName(){return "男";}

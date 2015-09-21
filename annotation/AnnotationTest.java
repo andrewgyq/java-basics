@@ -1,5 +1,3 @@
-package com.yqgu.annotation;
-
 @MyAnnotation(metaAnnotation=@MetaAnnotation(birthday = "我的出身日期为1991-09-25"),color="red", array={23, 26})
 public class AnnotationTest {
 

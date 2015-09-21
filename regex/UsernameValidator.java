@@ -1,5 +1,3 @@
-package com.yqgu.regex;
-
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;
 import java.util.regex.Matcher;

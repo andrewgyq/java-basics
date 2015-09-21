@@ -1,5 +1,3 @@
-package com.yqgu.common;
-
 class Apple {
 	public String color="red";
 }

@@ -1,5 +1,3 @@
-package com.yqgu.charset;
-
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;
 
