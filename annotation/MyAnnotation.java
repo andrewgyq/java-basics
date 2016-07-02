@@ -33,6 +33,6 @@ public @interface MyAnnotation {
     int[] array() default {1, 2, 3}; 
     Gender gender() default Gender.MAN; //添加一个枚举
     MetaAnnotation metaAnnotation() default @MetaAnnotation(birthday="我的出身日期为1991-09-25");
-  //添加枚举属性
+    //添加枚举属性
 
 }
